@@ -1,6 +1,6 @@
 ### Ahoy 👋
 
-I am *Robin Pokorny*, a zealous Software Developer based in Berlin
+I am **Robin Pokorny**, a zealous Software Developer based in Berlin
 
 [![Homepage][web-image]](https://robinpokorny.com/)
 [![Engineer at Klarna][klarna-image]](https://engineering.klarna.com/)
@@ -8,7 +8,7 @@ I am *Robin Pokorny*, a zealous Software Developer based in Berlin
 [![TypeScript][ts-image]](https://robinpokorny.com/talks)
 [![Twitter Follow][twitter-image]](https://twitter.com/robinpokorny)
 
-> **I’m really passionate about engineering best practices. I think the biggest problem for developers is lack of focus. As a developer who specialises in JavaScript, I’m helping to find solutions through applying functional programming principles..**
+> *I’m really passionate about engineering best practices. I think the biggest problem for developers is lack of focus. As a developer who specialises in JavaScript, I’m helping to find solutions through applying functional programming principles.*
 
 
 [web-image]: https://img.shields.io/badge/%20-robinpokorny.com-ba7ba9?style=flat-square&logo=safari&logoColor=white
